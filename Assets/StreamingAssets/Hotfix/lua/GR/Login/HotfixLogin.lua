@@ -1,0 +1,3 @@
+-- xlua.hotfix(CS.UILogin, '_initUI', function(self)
+-- print(12345678910)               
+-- end)

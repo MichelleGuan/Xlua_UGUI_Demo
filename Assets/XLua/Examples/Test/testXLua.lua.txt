@@ -1,0 +1,37 @@
+require("TestLuaOOP")
+
+local speed = 1;
+testLoadLua()
+function start()
+print("start")
+    button_start = CS.UnityEngine.GameObject.Find("Canvas/Button_Start")
+    button_start:GetComponent("Button").onClick:AddListener(function()
+    print("Button_Start")
+	speed = speed * 2
+  end)
+
+    button_stop = CS.UnityEngine.GameObject.Find("Canvas/Button_Stop")
+    button_stop:GetComponent("Button").onClick:AddListener(function()
+    print("button_stop")
+	speed = 1
+  end)
+end
+
+function run()
+  local r = CS.UnityEngine.Vector3.forward * CS.UnityEngine.Time.deltaTime * speed
+  
+  self.transform:Rotate(r)
+end
+
+function destroy()
+  print("destroy")
+end
+
+function awake()
+  print("awake")
+end
+
+function PrintAndReturn(...)
+	print(...)
+    retrun "testCallLua"
+end

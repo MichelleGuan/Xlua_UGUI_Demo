@@ -1,0 +1,18 @@
+local calc_mt = {
+  __index = {
+    Add = function(self, a, b)
+      return (a + b) * self.Mult
+    end
+  }
+}
+
+Calc = {
+  New = function (mult, ...)
+    print(...)
+    return setmetatable({Mult = mult}, calc_mt)
+  end
+}
+
+function testLoadLua()
+	print("testLoadLua")
+end

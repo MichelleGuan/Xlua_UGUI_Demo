@@ -1,0 +1,8 @@
+xlua.hotfix(CS.TestHotfixScript, 'test', function(self)
+  print("lua中文")
+end)
+
+function Start()
+  print("self",self)
+  self:GetComponent("Text").text = 'xlua热修复'
+end
