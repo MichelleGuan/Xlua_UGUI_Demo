@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-02-05T20:27:19.7410000+08:00
+  lastVerifiedAtString: 2018-02-05T20:27:19.7410000+08:00
+  initializedAtString: 2018-02-05T20:27:19.6920000+08:00
+  gitConfigBranch:
+    name: master
+    remote:
+      name: origin
+      url: https://github.com/MichelleGuan/Xlua_UGUI_Demo.git
+  gitConfigRemote:
+    name: origin
+    url: https://github.com/MichelleGuan/Xlua_UGUI_Demo.git
+  localBranches:
+  - name: master
+    tracking: origin/master
+    isActive: 1
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
+  remotes:
+  - name: origin
+    url: https://github.com/MichelleGuan/Xlua_UGUI_Demo.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/MichelleGuan/Xlua_UGUI_Demo.git
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/MichelleGuan/Xlua_UGUI_Demo.git
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/MichelleGuan/Xlua_UGUI_Demo.git

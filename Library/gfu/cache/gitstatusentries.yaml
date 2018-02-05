@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1038538317, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-02-05T20:38:33.9930000+08:00
+  lastVerifiedAtString: 2018-02-05T20:38:34.0010000+08:00
+  initializedAtString: 2018-02-05T20:38:33.9930000+08:00
+  entries:
+  - path: client_ui.v12.suo
+    fullPath: "D:\\file\\guanranTest\\\u56DE\u5408\u5361\u724C\u5B66\u4E60\\GUI\u6848\u4F8B\u91CD\u5199\\client_ui\\client_ui.v12.suo"
+    projectPath: client_ui.v12.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: "D:\\file\\guanranTest\\\u56DE\u5408\u5361\u724C\u5B66\u4E60\\GUI\u6848\u4F8B\u91CD\u5199\\client_ui\\Library\\gfu\\cache\\branches.yaml"
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: "D:\\file\\guanranTest\\\u56DE\u5408\u5361\u724C\u5B66\u4E60\\GUI\u6848\u4F8B\u91CD\u5199\\client_ui\\Library\\gfu\\cache\\gitlocks.yaml"
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: "D:\\file\\guanranTest\\\u56DE\u5408\u5361\u724C\u5B66\u4E60\\GUI\u6848\u4F8B\u91CD\u5199\\client_ui\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: "D:\\file\\guanranTest\\\u56DE\u5408\u5361\u724C\u5B66\u4E60\\GUI\u6848\u4F8B\u91CD\u5199\\client_ui\\Library\\gfu\\cache\\repoinfo.yaml"
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: "D:\\file\\guanranTest\\\u56DE\u5408\u5361\u724C\u5B66\u4E60\\GUI\u6848\u4F8B\u91CD\u5199\\client_ui\\Temp\\ProcessJobs\\e9a6970f79cd12d8b075e7d72f1b07cb.bakert"
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: "D:\\file\\guanranTest\\\u56DE\u5408\u5361\u724C\u5B66\u4E60\\GUI\u6848\u4F8B\u91CD\u5199\\client_ui\\Temp\\UnityLockfile"
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
